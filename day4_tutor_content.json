@@ -1,0 +1,14 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables",
+    "summary": "In programming, a variable is like a labeled box where you store data. You give it a name (the label) and put a value inside (the data). This allows you to reference and manipulate that data throughout your code.",
+    "sample_question": "Imagine you are making a game. Give me an example of what you would use a variable for."
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "A loop is a control structure that repeats a block of code as long as a specific condition is true. This saves you from writing the same code over and over again. Common types are 'For Loops' (counting) and 'While Loops' (conditional).",
+    "sample_question": "What is the main advantage of using a loop instead of writing the same line of code 10 times?"
+}
+]
