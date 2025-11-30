@@ -1,0 +1,458 @@
+[
+    {
+        "id": "prod_001",
+        "name": "Developer Hoodie",
+        "price": 2500,
+        "currency": "INR",
+        "category": "apparel",
+        "description": "Black hoodie with 'git push --force' printed on it."
+    },
+    {
+        "id": "prod_011",
+        "name": "Vintage Denim Jacket",
+        "price": 4500,
+        "currency": "INR",
+        "category": "apparel",
+        "description": "Classic blue denim with a worn-in look."
+    },
+    {
+        "id": "prod_012",
+        "name": "Running Sneakers",
+        "price": 3200,
+        "currency": "INR",
+        "category": "apparel",
+        "description": "Lightweight, breathable shoes for daily jogging."
+    },
+    {
+        "id": "prod_003",
+        "name": "Mechanical Keyboard",
+        "price": 4500,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "RGB backlit with clicky blue switches."
+    },
+    {
+        "id": "prod_004",
+        "name": "Noise Cancelling Headphones",
+        "price": 12000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Over-ear wireless headphones with 30h battery life."
+    },
+    {
+        "id": "prod_006",
+        "name": "USB-C Hub (7-in-1)",
+        "price": 3500,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "HDMI, USB 3.0, and SD card reader in one hub."
+    },
+    {
+        "id": "prod_007",
+        "name": "4K Monitor 27-inch",
+        "price": 28000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "IPS panel with 99% sRGB color accuracy."
+    },
+    {
+        "id": "prod_010",
+        "name": "Wireless Mouse",
+        "price": 1500,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Ergonomic design with long battery life."
+    },
+    {
+        "id": "prod_013",
+        "name": "Smart Watch Series 5",
+        "price": 18000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Fitness tracking, heart rate monitor, and GPS."
+    },
+    {
+        "id": "prod_002",
+        "name": "Stoneware Coffee Mug",
+        "price": 800,
+        "currency": "INR",
+        "category": "home",
+        "description": "Hand-crafted ceramic mug."
+    },
+    {
+        "id": "prod_005",
+        "name": "Ergonomic Office Chair",
+        "price": 15000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Mesh back with lumbar support."
+    },
+    {
+        "id": "prod_008",
+        "name": "Smart Water Bottle",
+        "price": 2000,
+        "currency": "INR",
+        "category": "lifestyle",
+        "description": "Tracks your hydration and glows to remind you to drink."
+    },
+    {
+        "id": "prod_014",
+        "name": "Succulent Plant Set (3-pack)",
+        "price": 900,
+        "currency": "INR",
+        "category": "home",
+        "description": "Low maintenance indoor plants in ceramic pots."
+    },
+    {
+        "id": "prod_009",
+        "name": "Python Crash Course",
+        "price": 1200,
+        "currency": "INR",
+        "category": "books",
+        "description": "A hands-on, project-based introduction to programming."
+    },
+        {
+        "id": "prod_057",
+        "name": "Python Programming for Beginners",
+        "price": 1200,
+        "currency": "INR",
+        "category": "books",
+        "description": "A hands-on, project-based introduction to programming."
+    },
+    {
+        "id": "prod_015",
+        "name": "The Pragmatic Programmer",
+        "price": 1800,
+        "currency": "INR",
+        "category": "books",
+        "description": "Classic advice for software craftsmanship."
+    },
+    {
+        "id": "prod_016",
+        "name": "Wireless Charging Pad",
+        "price": 2200,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Fast charging for Qi-enabled devices."
+    },
+    {
+        "id": "prod_017",
+        "name": "Adjustable Laptop Stand",
+        "price": 3000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Ergonomic stand with adjustable height and angle."
+    },
+    {
+        "id": "prod_018",
+        "name": "Bluetooth Speaker",
+        "price": 4000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Portable speaker with deep bass and 12h playtime."
+    },
+    {
+        "id": "prod_019",
+        "name": "Fitness Tracker Band",
+        "price": 3500,
+        "currency": "INR",
+        "category": "lifestyle",
+        "description": "Monitors heart rate, sleep, and activity levels."
+    },
+    {
+        "id": "prod_020",
+        "name": "LED Desk Lamp",
+        "price": 1800,
+        "currency": "INR",
+        "category": "home",
+        "description": "Dimmable lamp with USB charging port."
+    },
+    {
+        "id": "prod_021",
+        "name": "Ceramic Vase",
+        "price": 1200,
+        "currency": "INR",
+        "category": "home",
+        "description": "Hand-painted vase for flowers or decor."
+    },
+    {
+        "id": "prod_022",
+        "name": "Cotton Bed Sheets (Queen Size)",
+        "price": 3500,
+        "currency": "INR",
+        "category": "home",
+        "description": "Soft and breathable 100% cotton sheets."
+    },
+    {
+        "id": "prod_023",
+        "name": "Stainless Steel Cookware Set (10-piece)",
+        "price": 8000,
+        "currency": "INR",
+        "category": "home",
+        "description": "Durable pots and pans for all your cooking needs."
+    },
+    {
+        "id": "prod_024",
+        "name": "Yoga Mat",
+        "price": 1500,
+        "currency": "INR",
+        "category": "lifestyle",
+        "description": "Non-slip mat with extra cushioning."
+    },
+    {
+        "id": "prod_025",
+        "name": "Stainless Steel Water Bottle",
+        "price": 1200,
+        "currency": "INR",
+        "category": "lifestyle",
+        "description": "Insulated bottle keeps drinks cold for 24 hours."
+    },
+    {
+        "id": "prod_026",
+        "name": "Adjustable Dumbbells (Set of 2)",
+        "price": 6000,
+        "currency": "INR",
+        "category": "fitness",
+        "description": "Space-saving adjustable weights for home workouts."
+    },
+    {
+        "id": "prod_027",
+        "name": "Resistance Bands Set (5 pieces)",
+        "price": 2000,
+        "currency": "INR",
+        "category": "fitness",
+        "description": "Variety of resistance levels for strength training."
+    },
+    {
+        "id": "prod_028",
+        "name": "Foam Roller",
+        "price": 1500,
+        "currency": "INR",
+        "category": "fitness",
+        "description": "High-density foam roller for muscle recovery."
+    },
+    {
+        "id": "prod_029",
+        "name": "Jump Rope",
+        "price": 800,
+        "currency": "INR",
+        "category": "fitness",
+        "description": "Adjustable length rope for cardio workouts."
+    },
+    {
+        "id": "prod_030",
+        "name": "Fitness Yoga Block (Set of 2)",
+        "price": 600,
+        "currency": "INR",
+        "category": "fitness",
+        "description": "Lightweight foam blocks for yoga support."
+    },
+    {
+        "id": "prod_031",
+        "name": "Electric Kettle",
+        "price": 2500,
+        "currency": "INR",
+        "category": "home",
+        "description": "1.7L stainless steel kettle with auto shut-off."
+    },
+    {
+        "id": "prod_032",
+        "name": "Air Purifier",
+        "price": 12000,
+        "currency": "INR",
+        "category": "home",
+        "description": "HEPA filter removes 99.97% of airborne particles."
+    },
+    {
+        "id": "prod_033",
+        "name": "Smart Light Bulb (Color Changing)",
+        "price": 1500,
+        "currency": "INR",
+        "category": "home",
+        "description": "WiFi-enabled bulb with app control."
+    },
+    {
+        "id": "prod_034",
+        "name": "Robot Vacuum Cleaner",
+        "price": 18000,
+        "currency": "INR",
+        "category": "home",
+        "description": "Automatic vacuum with smart navigation."
+    },
+    {
+        "id": "prod_035",
+        "name": "Instant Pot Duo 7-in-1",
+        "price": 9000,
+        "currency": "INR",
+        "category": "home",
+        "description": "Multi-use pressure cooker for quick meals."
+    },
+    {
+        "id": "prod_036",
+        "name": "Electric Standing Desk",
+        "price": 25000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Height adjustable desk with memory presets."
+    },
+    {
+        "id": "prod_037",
+        "name": "Bookshelf (5-tier)",
+        "price": 7000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Wooden bookshelf with ample storage space."
+    },
+    {
+        "id": "prod_038",
+        "name": "Lounge Chair",
+        "price": 12000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Comfortable chair with plush cushioning."
+    },
+    {
+        "id": "prod_039",
+        "name": "Dining Table Set (4 chairs)",
+        "price": 20000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Modern dining table with matching chairs."
+    },
+    {
+        "id": "prod_040",
+        "name": "Floor Lamp",
+        "price": 3000,
+        "currency": "INR",
+        "category": "furniture",
+        "description": "Tall lamp with adjustable brightness."
+    },
+    {
+        "id": "prod_041",
+        "name": "Acrylic Paint Set (24 colors)",
+        "price": 1800,
+        "currency": "INR",
+        "category": "art supplies",
+        "description": "Vibrant colors for artists of all levels."
+    },
+    {
+        "id": "prod_042",
+        "name": "Sketchbook (100 pages)",
+        "price": 1200,
+        "currency": "INR",
+        "category": "art supplies",
+        "description": "High-quality paper for drawing and sketching."
+    },
+    {
+        "id": "prod_043",
+        "name": "Set of 12 Paintbrushes",
+        "price": 900,
+        "currency": "INR",
+        "category": "art supplies",
+        "description": "Variety of brush sizes for different techniques."
+    },
+    {
+        "id": "prod_044",
+        "name": "Easel Stand",
+        "price": 2500,
+        "currency": "INR",
+        "category": "art supplies",
+        "description": "Adjustable wooden easel for canvases."
+    },
+    {
+        "id": "prod_045",
+        "name": "Watercolor Paint Set (18 colors)",
+        "price": 1500,
+        "currency": "INR",
+        "category": "art supplies",
+        "description": "Vibrant watercolors for creative projects."
+    },
+    {
+        "id": "prod_046",
+        "name": "Digital Drawing Tablet",
+        "price": 8000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Pressure-sensitive tablet for digital art."
+    },
+    {
+        "id": "prod_047",
+        "name": "Graphic Design Software License",
+        "price": 15000,
+        "currency": "INR",
+        "category": "software",
+        "description": "One-year license for professional graphic design software."
+    },
+    {
+        "id": "prod_048",
+        "name": "Photography Lighting Kit",
+        "price": 12000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Complete lighting setup for studio photography."
+    },
+    {
+        "id": "prod_049",
+        "name": "Tripod Stand",
+        "price": 3000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Adjustable tripod for cameras and smartphones."
+    },
+    {
+        "id": "prod_050",
+        "name": "Camera Lens Kit",
+        "price": 25000,
+        "currency": "INR",
+        "category": "electronics",
+        "description": "Set of lenses for various photography styles."
+    },
+    {
+        "id": "prod_051",
+        "name": "Deep Learning with Python",
+        "description": "Comprehensive guide by Francois Chollet.",
+        "price": 2500,
+        "currency": "INR",
+        "category": "books"
+    },
+    {
+        "id": "prod_052",
+        "name": "Clean Code",
+        "description": "A Handbook of Agile Software Craftsmanship.",
+        "price": 3000,
+        "currency": "INR",
+        "category": "books"
+    },
+    {
+        "id": "prod_053",
+        "name": "Design Patterns",
+        "description": "Elements of Reusable Object-Oriented Software.",
+        "price": 3500,
+        "currency": "INR",
+        "category":"books"
+    },
+    {
+        "id": "prod_054",
+        "name": "Hackathon T-Shirt",
+        "description": "Limited edition tee: 'Sleep is for the weak'.",
+        "price": 800,
+        "currency": "INR",
+        "category": "apparel"
+    },
+    {
+        "id": "prod_055",
+        "name": "Aviator Sunglasses",
+        "description": "Classic gold frame with polarized lenses.",
+        "price": 1500,
+        "currency": "INR",
+        "category": "apparel"
+    },
+    {
+        "id": "prod_056",
+        "name": "Laptop Backpack",
+        "description": "Water-resistant with dedicated 15-inch laptop sleeve.",
+        "price": 2800,
+        "currency": "INR",
+        "category":"apparel"
+    }
+]

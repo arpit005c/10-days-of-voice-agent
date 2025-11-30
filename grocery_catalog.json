@@ -1,0 +1,537 @@
+[
+    {
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 2.5
+    },
+    {
+        "name": "Eggs",
+        "category": "Dairy",
+        "price": 3.0
+    },
+    {
+        "name": "Cheddar Cheese",
+        "category": "Dairy",
+        "price": 5.0
+    },
+    {
+        "name": "Butter",
+        "category": "Dairy",
+        "price": 4.0
+    },
+    {
+        "name": "Greek Yogurt",
+        "category": "Dairy",
+        "price": 1.2
+    },
+    {
+        "name": "Almond Milk",
+        "category": "Dairy",
+        "price": 3.5
+    },
+    {
+        "name": "Heavy Cream",
+        "category": "Dairy",
+        "price": 2.8
+    },
+    {
+        "name": "Sour Cream",
+        "category": "Dairy",
+        "price": 2.0
+    },
+    {
+        "name": "Mozzarella Cheese",
+        "category": "Dairy",
+        "price": 4.5
+    },
+    {
+        "name": "Parmesan Cheese",
+        "category": "Dairy",
+        "price": 6.0
+    },
+    {
+        "name": "Bread",
+        "category": "Bakery",
+        "price": 2.0
+    },
+    {
+        "name": "Whole Wheat Bread",
+        "category": "Bakery",
+        "price": 2.5
+    },
+    {
+        "name": "Sourdough Loaf",
+        "category": "Bakery",
+        "price": 4.0
+    },
+    {
+        "name": "Bagels (6-pack)",
+        "category": "Bakery",
+        "price": 3.5
+    },
+    {
+        "name": "Croissants (4-pack)",
+        "category": "Bakery",
+        "price": 5.0
+    },
+    {
+        "name": "Tortillas",
+        "category": "Bakery",
+        "price": 2.5
+    },
+    {
+        "name": "Burger Buns",
+        "category": "Bakery",
+        "price": 3.0
+    },
+    {
+        "name": "Hot Dog Buns",
+        "category": "Bakery",
+        "price": 2.8
+    },
+    {
+        "name": "Peanut Butter",
+        "category": "Pantry",
+        "price": 4.5
+    },
+    {
+        "name": "Jelly",
+        "category": "Pantry",
+        "price": 3.0
+    },
+    {
+        "name": "Pasta",
+        "category": "Pantry",
+        "price": 1.5
+    },
+    {
+        "name": "Tomato Sauce",
+        "category": "Pantry",
+        "price": 2.5
+    },
+    {
+        "name": "White Rice (5lb)",
+        "category": "Pantry",
+        "price": 4.0
+    },
+    {
+        "name": "Brown Rice",
+        "category": "Pantry",
+        "price": 4.2
+    },
+    {
+        "name": "Quinoa",
+        "category": "Pantry",
+        "price": 5.5
+    },
+    {
+        "name": "Black Beans (Canned)",
+        "category": "Pantry",
+        "price": 1.0
+    },
+    {
+        "name": "Chickpeas",
+        "category": "Pantry",
+        "price": 1.0
+    },
+    {
+        "name": "Olive Oil",
+        "category": "Pantry",
+        "price": 8.0
+    },
+    {
+        "name": "Vegetable Oil",
+        "category": "Pantry",
+        "price": 4.0
+    },
+    {
+        "name": "All-Purpose Flour",
+        "category": "Pantry",
+        "price": 2.5
+    },
+    {
+        "name": "Sugar",
+        "category": "Pantry",
+        "price": 2.5
+    },
+    {
+        "name": "Brown Sugar",
+        "category": "Pantry",
+        "price": 2.8
+    },
+    {
+        "name": "Salt",
+        "category": "Pantry",
+        "price": 1.0
+    },
+    {
+        "name": "Black Pepper",
+        "category": "Spices",
+        "price": 3.5
+    },
+    {
+        "name": "Garlic Powder",
+        "category": "Spices",
+        "price": 2.0
+    },
+    {
+        "name": "Cinnamon",
+        "category": "Spices",
+        "price": 3.0
+    },
+    {
+        "name": "Honey",
+        "category": "Pantry",
+        "price": 6.0
+    },
+    {
+        "name": "Maple Syrup",
+        "category": "Pantry",
+        "price": 7.5
+    },
+    {
+        "name": "Cereal",
+        "category": "Pantry",
+        "price": 4.5
+    },
+    {
+        "name": "Oatmeal",
+        "category": "Pantry",
+        "price": 3.0
+    },
+    {
+        "name": "Pancake Mix",
+        "category": "Pantry",
+        "price": 3.2
+    },
+    {
+        "name": "Ketchup",
+        "category": "Condiments",
+        "price": 2.8
+    },
+    {
+        "name": "Mayonnaise",
+        "category": "Condiments",
+        "price": 3.5
+    },
+    {
+        "name": "Mustard",
+        "category": "Condiments",
+        "price": 2.0
+    },
+    {
+        "name": "Soy Sauce",
+        "category": "Condiments",
+        "price": 3.0
+    },
+    {
+        "name": "Hot Sauce",
+        "category": "Condiments",
+        "price": 3.5
+    },
+    {
+        "name": "Salad Dressing",
+        "category": "Condiments",
+        "price": 3.8
+    },
+    {
+        "name": "Chicken Breast",
+        "category": "Meat",
+        "price": 6.5
+    },
+    {
+        "name": "Ground Beef",
+        "category": "Meat",
+        "price": 5.5
+    },
+    {
+        "name": "Bacon",
+        "category": "Meat",
+        "price": 5.0
+    },
+    {
+        "name": "Salmon Fillet",
+        "category": "Meat",
+        "price": 9.0
+    },
+    {
+        "name": "Turkey Slices",
+        "category": "Meat",
+        "price": 4.5
+    },
+    {
+        "name": "Pork Chops",
+        "category": "Meat",
+        "price": 7.0
+    },
+    {
+        "name": "Apple",
+        "category": "Produce",
+        "price": 0.8
+    },
+    {
+        "name": "Banana",
+        "category": "Produce",
+        "price": 0.3
+    },
+    {
+        "name": "Orange",
+        "category": "Produce",
+        "price": 0.9
+    },
+    {
+        "name": "Grapes (Bag)",
+        "category": "Produce",
+        "price": 4.0
+    },
+    {
+        "name": "Strawberries",
+        "category": "Produce",
+        "price": 3.5
+    },
+    {
+        "name": "Blueberries",
+        "category": "Produce",
+        "price": 4.0
+    },
+    {
+        "name": "Watermelon",
+        "category": "Produce",
+        "price": 5.0
+    },
+    {
+        "name": "Potato",
+        "category": "Produce",
+        "price": 0.5
+    },
+    {
+        "name": "Onion",
+        "category": "Produce",
+        "price": 0.6
+    },
+    {
+        "name": "Carrots (Bag)",
+        "category": "Produce",
+        "price": 2.0
+    },
+    {
+        "name": "Lettuce",
+        "category": "Produce",
+        "price": 1.8
+    },
+    {
+        "name": "Spinach",
+        "category": "Produce",
+        "price": 2.5
+    },
+    {
+        "name": "Tomato",
+        "category": "Produce",
+        "price": 0.7
+    },
+    {
+        "name": "Cucumber",
+        "category": "Produce",
+        "price": 1.0
+    },
+    {
+        "name": "Avocado",
+        "category": "Produce",
+        "price": 1.5
+    },
+    {
+        "name": "Bell Pepper",
+        "category": "Produce",
+        "price": 1.2
+    },
+    {
+        "name": "Garlic",
+        "category": "Produce",
+        "price": 0.5
+    },
+    {
+        "name": "Lemon",
+        "category": "Produce",
+        "price": 0.6
+    },
+    {
+        "name": "Broccoli",
+        "category": "Produce",
+        "price": 2.2
+    },
+    {
+        "name": "Mushrooms",
+        "category": "Produce",
+        "price": 2.5
+    },
+    {
+        "name": "Frozen Pizza",
+        "category": "Frozen",
+        "price": 6.0
+    },
+    {
+        "name": "Ice Cream",
+        "category": "Frozen",
+        "price": 4.5
+    },
+    {
+        "name": "Frozen Peas",
+        "category": "Frozen",
+        "price": 1.5
+    },
+    {
+        "name": "Frozen Corn",
+        "category": "Frozen",
+        "price": 1.5
+    },
+    {
+        "name": "Frozen Berries",
+        "category": "Frozen",
+        "price": 5.0
+    },
+    {
+        "name": "Fish Sticks",
+        "category": "Frozen",
+        "price": 5.5
+    },
+    {
+        "name": "Orange Juice",
+        "category": "Beverages",
+        "price": 3.5
+    },
+    {
+        "name": "Apple Juice",
+        "category": "Beverages",
+        "price": 3.0
+    },
+    {
+        "name": "Coffee Beans",
+        "category": "Beverages",
+        "price": 8.0
+    },
+    {
+        "name": "Tea Bags",
+        "category": "Beverages",
+        "price": 3.0
+    },
+    {
+        "name": "Cola (12-pack)",
+        "category": "Beverages",
+        "price": 6.0
+    },
+    {
+        "name": "Sparkling Water",
+        "category": "Beverages",
+        "price": 1.2
+    },
+    {
+        "name": "Bottled Water (24-pack)",
+        "category": "Beverages",
+        "price": 5.0
+    },
+    {
+        "name": "Potato Chips",
+        "category": "Snacks",
+        "price": 3.0
+    },
+    {
+        "name": "Tortilla Chips",
+        "category": "Snacks",
+        "price": 3.0
+    },
+    {
+        "name": "Salsa",
+        "category": "Snacks",
+        "price": 3.5
+    },
+    {
+        "name": "Pretzels",
+        "category": "Snacks",
+        "price": 2.5
+    },
+    {
+        "name": "Chocolate Bar",
+        "category": "Snacks",
+        "price": 1.2
+    },
+    {
+        "name": "Cookies",
+        "category": "Snacks",
+        "price": 3.5
+    },
+    {
+        "name": "Granola Bars",
+        "category": "Snacks",
+        "price": 3.5
+    },
+    {
+        "name": "Popcorn",
+        "category": "Snacks",
+        "price": 2.8
+    },
+    {
+        "name": "Dish Soap",
+        "category": "Household",
+        "price": 2.5
+    },
+    {
+        "name": "Paper Towels",
+        "category": "Household",
+        "price": 3.0
+    },
+    {
+        "name": "Toilet Paper",
+        "category": "Household",
+        "price": 7.0
+    },
+    {
+        "name": "Laundry Detergent",
+        "category": "Household",
+        "price": 12.0
+    },
+    {
+        "name": "Trash Bags",
+        "category": "Household",
+        "price": 6.5
+    },
+    {
+        "name": "Sponges (3-pack)",
+        "category": "Household",
+        "price": 2.0
+    },
+    {
+        "name": "Shampoo",
+        "category": "Personal Care",
+        "price": 5.5
+    },
+    {
+        "name": "Body Wash",
+        "category": "Personal Care",
+        "price": 4.5
+    },
+    {
+        "name": "Toothpaste",
+        "category": "Personal Care",
+        "price": 3.0
+    },
+    {
+        "name": "Deodorant",
+        "category": "Personal Care",
+        "price": 4.0
+    },
+    {
+        "name": "Hand Soap",
+        "category": "Personal Care",
+        "price": 2.5
+    },
+    {
+        "name": "Dog Food (5lb)",
+        "category": "Pet",
+        "price": 10.0
+    },
+    {
+        "name": "Cat Food (Cans)",
+        "category": "Pet",
+        "price": 0.8
+    }
+]
