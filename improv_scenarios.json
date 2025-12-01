@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "setting": "Coffee Shop",
+    "role": "Barista",
+    "conflict": "You have to tell a customer that their latte is actually a portal to another dimension."
+  },
+  {
+    "id": 2,
+    "setting": "Spaceship Bridge",
+    "role": "Captain",
+    "conflict": "The ship's AI just confessed it is in love with the toaster, and you need to let it down gently."
+  },
+  {
+    "id": 3,
+    "setting": "Medieval Market",
+    "role": "Wizard",
+    "conflict": "You are trying to return a cursed sword to a shopkeeper who refuses to give refunds."
+  },
+  {
+    "id": 4,
+    "setting": "Job Interview",
+    "role": "Candidate",
+    "conflict": "You are interviewing for a job as a 'Professional Cat Herder' and must explain your qualifications."
+  }
+]
